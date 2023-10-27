@@ -1,2 +1,2 @@
-# FGCOOT
-Fused Gromov CO-OT (Work in progress)
+# Augmented Gromov Wasserstein
+AGW
